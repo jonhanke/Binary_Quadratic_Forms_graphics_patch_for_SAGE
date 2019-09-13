@@ -1,0 +1,2 @@
+# Binary_Quadratic_Forms_graphics_patch_for_SAGE
+This patch introduces some nice graphics routines to the BinaryQF class for displaying (filled) level sets Q(x,y) = m, against the integer lattice, and for highlighting the lattice points on the level set. There are also additional options for customizing the resulting graphic (size, color, thickness, etc.).  Note: This code presently only applies to positive definite binary quadratic forms.  Patch #10867 at https://trac.sagemath.org/ticket/10867
